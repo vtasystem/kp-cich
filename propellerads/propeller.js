@@ -201,7 +201,7 @@
                                         urlParams = new URLSearchParams(queryString), 
                                         ref = urlParams.get('pl'), 
                                         newLink = queryString.replace(ref, encodeURIComponent(fakeRef));
-                                        //window.location.href = newLink
+                                        window.location.href = newLink
                                         console.log(newLink);
                                         
                                     }
